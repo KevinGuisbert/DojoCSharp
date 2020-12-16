@@ -13,8 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Dojo.API\Dojo.API.csproj" />
-    <ProjectReference Include="..\Dojo.Model\Dojo.Model.csproj" />
+    <ProjectReference Include="..\Dojo.Kata\Dojo.Kata.csproj" />
   </ItemGroup>
 
 </Project>
