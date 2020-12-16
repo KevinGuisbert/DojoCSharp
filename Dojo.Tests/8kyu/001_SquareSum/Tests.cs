@@ -1,9 +1,6 @@
 ﻿using NUnit.Framework;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Call = Dojo.Kata._8kyu._001_SquareSum.after;
 
 namespace Dojo.Tests._8kyu._001_SquareSum
 {
@@ -21,6 +18,6 @@ namespace Dojo.Tests._8kyu._001_SquareSum
         }
 
         [Test, TestCaseSource("sampleTestCases"), Description("Sample Tests")]
-        public int SampleTest(int[] n) => Kata._8kyu._001_SquareSum.after.Kata.SquareSum(n);
+        public int SampleTest(int[] n) => Call.Kata.SquareSum(n);
     }
 }
