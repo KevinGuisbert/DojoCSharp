@@ -1,5 +1,4 @@
 ﻿using NUnit.Framework;
-using System;
 using Call = Dojo.Kata._8kyu._004_BS1_Cockroach.after;
 
 namespace Dojo.Tests._8kyu._004_BS1_Cockroach
