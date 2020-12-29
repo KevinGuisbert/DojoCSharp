@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using System.Collections.Generic;
-using Call = Dojo.Kata._8kyu._001_SquareSum.after;
+using Call = Dojo.Kata._8kyu._001_SquareSum;
 
 namespace Dojo.Tests._8kyu._001_SquareSum
 {

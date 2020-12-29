@@ -1,5 +1,5 @@
 ﻿using System.Linq;
-namespace Dojo.Kata._8kyu._005_YouOnlyNeedOne.after
+namespace Dojo.Kata._8kyu._005_YouOnlyNeedOne
 {
     public class Kata
     {

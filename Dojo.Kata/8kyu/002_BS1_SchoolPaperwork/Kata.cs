@@ -1,4 +1,4 @@
-﻿namespace Dojo.Kata._8kyu._002_BS1_SchoolPaperwork.after
+﻿namespace Dojo.Kata._8kyu._002_BS1_SchoolPaperwork
 {
     public static class Kata
     {

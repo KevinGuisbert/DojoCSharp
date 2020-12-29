@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using Call = Dojo.Kata._8kyu._005_YouOnlyNeedOne.after;
+using Call = Dojo.Kata._8kyu._005_YouOnlyNeedOne;
 
 namespace Dojo.Tests._8kyu._005_YouOnlyNeedOne
 {

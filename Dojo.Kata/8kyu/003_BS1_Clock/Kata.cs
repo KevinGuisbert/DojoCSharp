@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Dojo.Kata._8kyu._003_BS1_Clock.after
+﻿namespace Dojo.Kata._8kyu._003_BS1_Clock
 {
     public static class Kata
     {

@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Dojo.Kata._8kyu._001_SquareSum.after
+namespace Dojo.Kata._8kyu._001_SquareSum
 {
     public class Kata
     {

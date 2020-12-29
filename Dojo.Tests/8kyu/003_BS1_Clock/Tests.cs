@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using System;
-using Call = Dojo.Kata._8kyu._003_BS1_Clock.after;
+using Call = Dojo.Kata._8kyu._003_BS1_Clock;
 
 namespace Dojo.Tests._8kyu._003_BS1_Clock
 {

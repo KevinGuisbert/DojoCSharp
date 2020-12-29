@@ -14,7 +14,7 @@ namespace Dojo.Kata
 
                     int[] n = { 1, 2, 2 };
                     int expected = 9;
-                    int result = _8kyu._001_SquareSum.after.Kata.SquareSum(n);
+                    int result = _8kyu._001_SquareSum.Kata.SquareSum(n);
                     if (result == expected)
                     {
                         Console.WriteLine($"Success: { result }");
