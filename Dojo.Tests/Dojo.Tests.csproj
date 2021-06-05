@@ -16,4 +16,8 @@
     <ProjectReference Include="..\Dojo.Kata\Dojo.Kata.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="HR\" />
+  </ItemGroup>
+
 </Project>
