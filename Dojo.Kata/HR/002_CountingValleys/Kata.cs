@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dojo.Kata.HR._002_CountingValleys
 {
-    class Kata
+    public class Kata
     {
 
         public static int countingValleys(int steps, string path)

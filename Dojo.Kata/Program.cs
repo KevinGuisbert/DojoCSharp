@@ -30,7 +30,7 @@ namespace Dojo.Kata
 
         private static void HR_CountingValleys()
         {
-            Console.Write("- HackerRank - Counting Valleys - ");
+            Console.WriteLine("- HackerRank - Counting Valleys - ");
             int steps = 8;
             string path = "UDDDUDUU";
             int expected = 1;
@@ -44,6 +44,21 @@ namespace Dojo.Kata
             Console.ReadKey();
 
             //BenchmarkRunner.Run<HR._002_CountingValleys.BenchMark>();
+        }
+
+        private static void HR_JumpingOnTheClouds()
+        {
+            Console.WriteLine("- HackerRank - Jumping On The Clouds -");
+            List<int> arrayValues = new List<int> { 0, 0, 1, 0, 0, 1, 0 };
+            int expected = 4;
+
+            int result = HR._003_JumpingOnTheClouds.Kata.jumpingOnClouds(arrayValues);
+            if (result == expected)
+            {
+                Console.WriteLine($"Success: { result }");
+            }
+
+            Console.ReadKey();
         }
 
         #endregion
@@ -79,7 +94,8 @@ namespace Dojo.Kata
             // Hacker Rank Warm-up
             //------------------------------
             //HR_SalesByMatch();
-            HR_CountingValleys();
+            //HR_CountingValleys();
+            HR_JumpingOnTheClouds();
 
         }
     }
